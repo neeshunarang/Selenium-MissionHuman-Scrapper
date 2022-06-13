@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-13T10:11:58 PDT" name="Default suite" finished-at="2022-05-13T10:14:24 PDT" duration-ms="146637">
+    <groups>
+    </groups>
+    <test started-at="2022-05-13T10:11:58 PDT" name="Default test" finished-at="2022-05-13T10:14:24 PDT" duration-ms="146637">
+      <class name="TestCases.IndiaDataScrapping">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestCases.IndiaDataScrapping@12aba8be]" started-at="2022-05-13T10:11:58 PDT" name="SetUp" finished-at="2022-05-13T10:12:10 PDT" duration-ms="11977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="ScrapData()[pri:0, instance:TestCases.IndiaDataScrapping@12aba8be]" started-at="2022-05-13T10:12:10 PDT" name="ScrapData" finished-at="2022-05-13T10:14:24 PDT" duration-ms="134084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScrapData -->
+        <test-method is-config="true" signature="TeatDown()[pri:0, instance:TestCases.IndiaDataScrapping@12aba8be]" started-at="2022-05-13T10:14:24 PDT" name="TeatDown" finished-at="2022-05-13T10:14:24 PDT" duration-ms="516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeatDown -->
+      </class> <!-- TestCases.IndiaDataScrapping -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
